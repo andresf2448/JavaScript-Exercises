@@ -1,8 +1,4 @@
-<p align='center'>
-        <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
-<h1 align='center'>Entrevistas Técnicas</h1>
+<h1 align='center'>Colección ejercicios JavaScript</h1>
 
 <div align='center' style="display:grid ;justify-content: space-evenly; grid-template-columns: 200px 800px ; padding:10px">
     <div style="margin-left:30px">
