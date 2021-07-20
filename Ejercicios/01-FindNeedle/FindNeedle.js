@@ -13,5 +13,3 @@ function FindNeedle(haystack, needle) {
     
     return -1;
 }
-
-module.exports = FindNeedle;
